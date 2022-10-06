@@ -1,6 +1,9 @@
 ## Hi 👋 I am Bugra! 
 
-I am a 4th year computer engineering student at Mersin University, the organizer of GDG Mersin and the lead of DSC Mersin. I also work as Mobile Application Developer at Parasut. I develop mobile applications with Flutter and Swift.
+- Software Engineer @DeliveryHero
+- Organizer @GDGAdana
+* Develop mobile applications with Flutter
+* Learning Swift
 
 
 <details open>
