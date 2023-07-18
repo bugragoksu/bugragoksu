@@ -1,6 +1,6 @@
 ## Hi 👋 I am Bugra! 
 
-- Software Engineer @DeliveryHero
+- Software Engineer @parasutcom
 - Organizer @GDGAdana
 * Develop mobile applications with Flutter
 * Learning Swift
