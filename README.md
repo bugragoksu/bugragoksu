@@ -1,6 +1,6 @@
 ## Hi 👋 I am Bugra! 
 
-- Software Engineer @parasutcom
+- Senior Mobile Engineer @letgo
 - Organizer @GDGAdana
 * Develop mobile applications with Flutter
 * Learning Swift
